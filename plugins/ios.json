@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cc.fovea.cordova.purchase": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hero.audio18"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.hero.audio18"
+        }
+    },
+    "dependent_plugins": {}
+}
